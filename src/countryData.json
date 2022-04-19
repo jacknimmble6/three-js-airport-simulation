@@ -1,0 +1,290 @@
+[
+  {
+	  "country": "United States",
+	  "population": "329,500,000",
+  	"happiness": "6.951",
+  	"info": "The United States of America is the world's third largest country in size and nearly the third largest in terms of population. Located in North America, the country is bordered on the west by the Pacific Ocean and to the east by the Atlantic Ocean. Along the northern border is Canada and the southern border is Mexico. Tourist attractions include Mount Rushmore, Niagara Falls, The Statue of Liberty, Times Square & more."
+  },
+  { 
+    "country": "Mexico",
+    "population": "128,900,000",
+    "happiness": "6.317",
+    "info": "The official name of for Mexico is the United Mexican States. Mexico is the 11th most populated country in the world with around 130 million people. Mexico is the 14th largest country by land area. The country has the most reptile species in the world housing over 700 reptile species and also has the second most (over 430) mammal species in the world. In the jungles of southern Mexico, one can encounter various types of lizards, monkeys and colorful birds, such as parrots. Tourists sites include Chitzen Itza, Acapulco, ruins of the ancient Aztec pyramids, and Oaxaca."
+  },
+  {
+    "country": "Canada",
+    "population": "38,010,000",
+    "happiness": "7.103",
+    "info": "Canada is the largest country in the Western hemisphere and the second largest country in the world after Russia and borders only one country, the United States of America.  More than half of all the lakes in the world are located in Canada. The country counts more than 3 million lakes. Canada also includes two of the biggest lakes in the world: Great Bear Lake and Great Slave Lake. "
+  },
+  {
+    "country": "Colombia",
+    "population": "51,000,000",
+    "happiness": "6.012",
+    "info": "Colombia is the fourth largest country in South America and the second most populous country in South America after Brazil. Most Colombians live in the northern and western regions of the country, in the Andean highlands near the capital city Bogotá or near the Caribbean coast. The southern and eastern parts of the country are the least populated areas in Colombia. More than 81% of the population of Colombia live in cities or major towns. The five biggest cities in the country are Bogotá, Medellín, Cali, Barranquilla, Cartagena."
+  },
+  {
+    "country": "Venezuela",
+    "population": "29,000,000",
+    "happiness": "4.892",
+    "info": "Venezuela is a country in northern South America. Land borders are shared with Brazil, Colombia and Guyana. The longest landborder is shared with Colombia. The climate of Venezuela is tropical, hot and humid, as well as more moderate in the mountainous regions of the Andes highlands. Tourist attractions include Los Roques, Esfera Caracas 360, the Coro Cathedral, the Medanos de Coro National Park, and the Virgin Mary of Trujillo."
+  },
+  {
+    "country": "Peru",
+    "population": "33,600,000",
+    "happiness": "5.840",
+    "info": "Peru is the third largest country of South America. Peru has three regions: the coastal region (narrow plain), the sierra (Andes region also called Altiplano) and the selva region. Jungle covers 60% of the country. Peru is slightly smaller than the state of Alaska in the USA - and almost twice the size of Texas. Peru is about twice the size of France. Peru is located on the Pacific Ring of Fire. The capital city Lima is one of the ten largest cities in the Americas. Some attractions include the Rainbow Mountain, Lake Titicaca, and Machu Picchu."
+  },
+  {
+    "country": "Bolivia",
+    "population": "11,800,000",
+    "happiness": "5.716",
+    "info": "Bolivia is a landlocked country in South America. Bolivia covers about the same land area as Ethiopia, or is twice as big as Spain. Bolivia is less than three times the size of the state of Montana/USA. The country has many different landscapes. There are the highlands with rough and icy mountainous areas and  volcanoes and then there are dense rainforests in the Amazon basin. Thus the climate is also very diverse. Western Bolivia is generally colder due its high altitude - similar to the Andes highlands. The eastern side of Bolivia is warmer, and it can get very hot in the plains and humid in the rainforest region of the Amazon basin. The biggest cities are Santa Cruz de la Sierra, La Paz, Cochabamba. Tourist attractions include Amboró National Park, Isla del Sol and Altiplano."
+  },
+  {
+    "country": "Brazil",
+    "population": "213,000,000",
+    "happiness": "6.330",
+    "info": "Brazil shares borders with all other South American countries except for Chile and Ecuador. All the countries of the European Union could fit twice into Brazil. Brazil is slightly smaller than the United States. The climate in Brazil is mostly tropical with a temperate climate in the Southern parts of the country. The Amazon river is the world's second longest river. It is about 6,400 km/ 4,000 miles long. The river flows through Peru, Colombia and enters the Atlantic Ocean in Brazil. The Amazon rain forest is the largest rainforest in the world. About 60% of the world's rainforests are located in Brazil. Tourist attractions include Capivara National Park, Pantanal National Park, Christ the Redeemer, and Florianópolis."
+  },
+  {
+    "country": "Chile",
+    "population": "19,000,000",
+    "happiness": "6.172",
+    "info": "Chile is home to the world's largest dry desert: the Atacama desert. There are about 3,000 volcanoes in Chile and about 36 of them are active volcanoes. Chile is often shaken by earthquakes. The climate in Chile is mostly temperate with a desert climate in the northern parts of the country and there is a cool climate in the South. Chile is the longest narrow country in the world stretching from the north to the south over 4,300 km/ 2,670 miles. The southern Andes mountains are home to the world's highest volcano and the world's highest lake which is called the Ojos de Salado. The strongest earthquake ever measured happened in 1960 in Valdivia/Central Chile. It had a magnitude of 9.4 on the Richter scale. Tourist attractions include Torres del Paine National Park, Easter Island, and Atacama desert."
+  },
+  {
+    "country": "Argentina",
+    "population": "46,000,000",
+    "happiness": "5.929",
+    "info": "Argentina is the world's eight largest country and second largest country of South America after Brazil. Flat grassy plains that cover most of central and northern Argentina. To the south is the Tierra del Fuego and Patagonia with a very cold climate. The Tierra del Fuego has high mountains and very cold weather as it is quite close to Antarctica. The Tierra del Fuego is split between Chile and Argentina. Aconcagua is the highest mountain in South America and is part of the Argentine Andes. Attractions include Argentine Andes Mountains, Mendoza Wine Region, Iguazu Falls, Perito Moreno Glacier, and Nahuel Huapi."
+  },
+  {
+    "country": "Madagascar",
+    "population": "27,000,000",
+    "happiness": "4.208",
+    "info": "Madagascar is the second largest island country in the world - after Indonesia. Madagascar is also the fourth largest island in the world - after Greenland, New Guinea and Borneo. Madagascar is roughly four times as big as Georgia/USA or slightly smaller than Spain and Portugal combined. The capital city of Madagascar is Antananarivo, the country's largest city with more than 3.6 million people. Most houses in Madagascar even the palaces were build with wood or reeds before 1860.  Madagascar was a French colony from 1897 until 1968 and then gained full independence from France on 26 June 1960."
+  },
+  {
+    "country": "South Africa",
+    "population": "60,000,000",
+    "happiness": "4.956",
+    "info": "South Africa is about as big as the land area of France and Spain combined or twice the size of the state of Texas. Attractions include Cape Town, Kruger National Park, Sun City, Addo National Park, Durban, and the Drakensberg Mountains."
+  },
+  {
+    "country": "Egypt",
+    "population": "104,000,000",
+    "happiness": "4.283",
+    "info": " Egypt is a large country in northern Africa. The capital city of Egypt is called Cairo. Egypt is three times larger in land area than New Mexico or is slightly smaller in size than three times the size of Germany. Egypt is the country with the most Arab speaking people in the world. Some also refer to Egypt as the most populous country in the Arab world. The Nile is the longest river in the world. The Nile enters the Mediterranean Sea just north of Cairo. Most of Egypt's landscape is dominated by deserts. A few oases are dotting the desert. Egypt and Sudan are the easternmost countries of the Sahara desert. Egypt's climate is mainly hot and dry. Rainfall occurs in the winter months when even snowfalls can be expected on the mountainsides of the Sinai peninsula. Some tourist attractions include the pyramid of Giza, Alexandria, Luxor and Thebes, the Valley of the Kings, Mount Sinai, and Whale Valley."
+  },
+  {
+    "country": "Nigeria",
+    "population": "214,000,000",
+    "happiness": "4.759",
+    "info": "Nigeria is a large country in western Africa. Nigeria is roughly twice the size of California or is slightly bigger in size than Venezuela. Nigeria is the most populous country in Africa. The largest city of Nigeria is called Lagos. About 22 million people live in and around Lagos. Nigeria's climate varies from arid climate in the northern parts to tropical climate in the centre of the county and a coastal climate at the Atlantic Ocean coastal regions. Nigeria's longest river is the Niger river which is 4,100 km or 2,547 miles in length. The Niger enters the country in the northwestern part and flows southwards towards the Niger Delta of the Atlantic Ocean. Attractions include the Olumo Rock, Port Harcourt, and Lagos."
+  },
+  {
+    "country": "Ethiopia",
+    "population": "111,000,000",
+    "happiness": "4.275",
+    "info": "The country is located on the African continent in a central and eastern position on the Horn of Africa. Ethiopia is a landlocked country and its six neighbouring countries are Eritrea to the north and Djibouti to the northeast, Somalia to the east, Kenya to the south and South Sudan and Sudan to the west. Ethiopia is roughly twice as big as Texas or five times the size of the UK. The country entirely lies within the tropical latitudes, thus the lowlands have tropical savannah or desert climate while the higher mountain plateau experiences a more temperate climate. Tourist attractions include Lalibela, Addis Ababa, Omo Valley, Gondar Castle, Blue Nile Falls, and Simien Mountain National Park."
+  },
+  {
+    "country": "Libya",
+    "population": "6,871,000",
+    "happiness": "5.410",
+    "info": "Libya is located on the Mediterranean between Egypt and Tunisia. Coastal oases, lagoons, and sandy areas can be found along the shore of Tripolitania for more than 300km. Libya is the fourth largest country in Africa. The two dominant climates in Libya are hot-summer Mediterranean and the hot desert climate, although a total of 5 different zones have been recognized. Most of Libya’s terrain is barren and flat, and the country is susceptible to dust storms and sandstorms."
+  },
+  {
+    "country": "Indonesia",
+    "population": "275,000,000",
+    "happiness": "5.345",
+    "info": "Indonesia is an archipelago between the Indian Ocean and the Pacific Ocean and the largest island country in the world. Indonesia is the world’s fourth most populous country and the world's most populous Muslim nation. Indonesia is slightly less than three times the size of Texas or about three times the size of France. Jogjakarta is the place of the largest Buddhist temple in the world: Candi Borobudur. This is one of the most famous tourist attractions in Indonesia. As much as 80% of Indonesia was covered in rainforest up until the 1960s. Alongside Brazil with the Amazon, the Indonesian archipelago is nicknamed 'Lungs of the Earth'. The largest city of Indonesia is Jakarta with about 10 million inhabitants. Jakarta is the main business hub of the country. Tourist attractions include Candi Borobudur, Komodo National Park, Mount Bromo, and Gili Kedis Island."
+  },
+  {
+    "country": "Australia",
+    "population": "25,500,000",
+    "happiness": "7.183",
+    "info": "Australia is an island country in the Southern hemisphere. Australia is surrounded by the Indian Ocean and the Pacific Ocean. Australia is the driest inhabited continent of the world. Australia is the sixth largest country in the world, after Russia, Canada, USA, China and Brazil. The country is divided into six states (Southern Australia, Western Australia, New South Wales, Queensland, Victoria and Tasmania) and two self-governing territories: Northern Territory and Australian Capital Territory (which is around Canberra, the capital city). About 70% of Australia are outback, while the coastal plains are more fertile and house the majority of Australia's population. About 35% of Australia's land area are covered by deserts. Australia is roughly the same size as the USA without the states of California and Texas. Tourist attractions include Adelaide, Arnhem Land, Australian Alps, Brisbane, and the Great Barrier Reef."
+  },
+  {
+    "country": "India",
+    "population": "1,380,000,000",
+    "happiness": "3.819",
+    "info": "India is the seventh largest country in the world. India is slightly bigger than one third of the USA. It is located in Asia. India borders seven countries: Afghanistan, Pakistan, China, Nepal, Bhutan, Myanmar and Bangladesh. India is the second most populous country in the world and thus has also many big cities. However, about two thirds of the population still live in rural areas. Tourist attractions include the Mumbai Gateway, Taj Mahal, Red Fort in Delhi, and Rajiv Gandhi Sea Link."
+  },
+  {
+    "country": "China",
+    "population": "1,400,000,000",
+    "happiness": "5.339",
+    "info": "China is the fourth largest country in the world after Russia, Canada and the USA. In fact, mountains make up over 70% of the landmass. China is the most populous country in the world as it is home to almost one fifth of the world population. China has the world's longest sea-crossing bridge. The Hongkong to Zhuhai-Macao bridge was opened to traffic in October 2018. The highest mountain on the border with China is the Mount Everest, the world's highest mountain, with 8,848 metres (29,000ft). Tourist attractions include the Great Wall of China, Potala Palace, Guilin, and the Forbidden City in Beijing."
+  },
+  {
+    "country": "Russia",
+    "population": "142,000,000",
+    "happiness": "5.477",
+    "info": "Russia stretches from Eastern Europe to Northern Asia. Russia is the largest country in the world by land area and the ninth most populous country in the world. The 14 countries bordering Russia are: Norway, Finland, Estonia, Latvia, Lithuania, Poland, Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, Mongolia, China and North Korea. Russia is a huge country that is double the size of Australia and about 1.8 times as big as the USA. Almost half of the country is covered in forests, however, only 14% are suitable for agricultural land due to the harsh climate. Attractions include Lake Baikal, Trans-Siberian Railway, and Kizhi Island."
+  },
+  {
+    "country": "United Arab Emirates",
+    "population": "10,000,000",
+    "happiness": "6.561",
+    "info": "The UAE consist of a federation of seven emirates. Abu Dhabi is the largest emirate as it accounts for 84% of the total land area of the federation. The UAE are slightly smaller than the US state of Maine or slightly bigger than South Carolina. The landscape is generally barren and dry, even along the coastal plain bordering the Persian Gulf. The UAE have a dry desert climate and temperatures can easily reach more than 40°C/ 104°F in summer. Natural hazards include sand storms, dust storms and haze. Tourist attractions include the Burj Khalifa, Burj al Arab, Palm Jumeirah, Dubai Creek, and Al Jahili Fort."
+  },
+  {
+    "country": "Thailand",
+    "population": "70,000,000",
+    "happiness": "5.985",
+    "info": "Thailand is located in a region referred to as Southeast Asia. The Gulf of Thailand is to the Southeast of the country and the Andaman Sea to the West. Thailand has 1430 Islands, of which the largest is Phuket. The tallest mountain in Thailand is Doi Inthanon which is located in Chiangmai. Thailand's highest mountain is 2,565 m/ 8,415 ft high. Thailand is known for its colourful and vibrant cultural heritage and festivals and its stunning beaches such as Maya Bay on Phi Phi island. Thailand is slightly larger than Spain, about a quarter bigger and longer than Italy, or about three times the size of Florida. Tourist attractions include Phuket, Bangkok, Ko Samui, and Krabi."
+  },
+  {
+    "country": "Denmark",
+    "population": "5,800,000",
+    "happiness": "7.620",
+    "info": "Denmark lies in Northern Europe. Denmark belongs to the Scandinavian countries and is the smallest country of Scandinavia. Scandinavia usually includes the three kingdoms Sweden, Denmark and Norway, but in a wider view also includes Finland and Iceland. Denmark is about twice the size of Bolivia or Massachusetts/USA or about half the size of Ireland. Denmark's highest point is called Møllehøj. The summit near Skanderborg is a mere 171 m/ 561 ft. high and is marked by a millstone. The largest islands of Denmark are Greenland, Disko Island (off Greenland) and Zealand where the capital city Copenhagen is located. Tourist attractions include Copenhagen, Råbjerg Mile, Frederiksborg, and Tivoli Gardens." 
+  },
+  {
+    "country": "Greenland",
+    "population": "56,000",
+    "happiness": "N/A",
+    "info": "Greenland is the world's largest island. 80% of Greenland is covered by ice and snow and most people live along the coastline. Once a Danish colony, Greenland is now a district of Denmark since 1953 and has its own local government. Summer is the time to visit as then the temperatures are a bit warmer. July is also the only month when temperatures reach above freezing. This is the time to experience the warm magical light of the midnight sun. The sun does not set for two months, from May 25 to July 25. The Northern Lights, a wonderful spectacle can best be admired on clear autumn and winter nights."
+  },
+  {
+    "country": "Finland",
+    "population": "5,500,000",
+    "happiness": "7.842",
+    "info": "Finland is a country in northern Europe. Finland is slightly smaller than Norway or Germany or Montana/USA. Finland's land area is about half the size of Texas. Finland is among the most forested countries in the world. Finland is the most forested country in Europe. Finland has over 187,000 lakes and is the country with the most lakes. Finland has the largest lake district in Europe. About 72% of the country is covered by forests, lakes and moors. Tourist attractions include Helsinki, Rovaniemi, Turku, and Vaasa."
+  },
+  {
+    "country": "Sweden",
+    "population": "10,000,000",
+    "happiness": "7.363",
+    "info": "Sweden is a country in northern Europe. Sweden is slightly larger than California or about the size of Germany, Austria and Slovenia combined. Sweden is Northern Europe's largest country. Sweden has mountains in the western parts, but otherwise flat with rolling hills. Sweden has over 100 000 lakes and is one of the countries with the most lakes. The largest lake is Lake Vänern. The largest island of Sweden is called Gotland. Tourist attractions include Stockholm, Visby, and Abisco National Park."
+  },
+  {
+    "country": "Norway",
+    "population": "5,400,000",
+    "happiness": "7.392",
+    "info": "Norway is a country in northern Europe. Norway borders three countries: Finland, Sweden and Russia. The longest border is shared with Sweden. Norway is slightly larger than the state of New Mexico in the USA and slightly smaller than Vietnam or Italy. Norway highest mountain is called Galdhoppigen and is 2,469 m/8,100 ft high. The largest lake in Norway is Lake Mjøsa. Oslo, the capital city, is the only city in the country with more than 1 million people. Tourist attractions include Lofoten Islands, Lillehammer, Geiranger Fjord, and Oslo."
+  },
+  {
+    "country": "New Zealand",
+    "population": "5,000,000",
+    "happiness": "7.277",
+    "info": "New Zealand is a country in the Southern hemisphere and belongs to Oceania. New Zealand consists of two main islands: North Island (Te Ika-a-Māui) and South Island (Te Waipounamu). The islands are separated by the waters of the Cook Strait. The country is roughly as big as the state of Colorado or as Ecuador or as the UK and Switzerland combined. New Zealand was the world's first country to grant women the right to vote in 1893. New Zealand and Denmark are the only countries to have two national anthems. Tourist attractions include the Sky Tower, Takapuna Beach, Coromandel Peninsula, Milford Sound, Waitomo Caves, and Antarctic Centre."
+  },
+  {
+    "country": "Iceland",
+    "population": "357,000",
+    "happiness": "7.554",
+    "info": "Iceland is an island in Northern Europe that is located in the Atlantic Ocean near the Arctic circle. Iceland is the second largest island in Europe - after Great Britain. In size, Iceland is slightly bigger than Hungary or South Korea and about the size of the state of Kentucky. About 11 % of the country is covered by glaciers. The country has more than 20 active volcanoes. Tourist attractions the include Blue Lagoon geothermal spa, the Northern Lights, Gullfoss waterfall, Skaftafell National Park, and Strokkur geysir."
+  },
+  {
+    "country": "Spain",
+    "population": "48,000,000",
+    "happiness": "6.491",
+    "info": "Spain is a country in southwestern Europe on the Iberian peninsula. Spain is slightly larger than twice the size of the United Kingdom and about twice the size of the state of Oregon in the USA. Spain is the fourth largest country in Europe after Russia, Ukraine and France. The climate in Spain varies considerably between the different regions. In the northern mountainous regions the climate is alpine and the interior experiences a hot and arid climate, still most of the country appreciates a temperate and mild climate. The climate in the southwestern parts is semi-arid while the northwestern parts experiences an oceanic climate. On the Canary islands the climate is subtropical and semi-arid. Tourist attractions include Barcelona, Madrid, Santiago de Compostela, and The Pyrenees."
+  },
+  {
+    "country": "France",
+    "population": "68,000,000",
+    "happiness": "6.690",
+    "info": "France is the largest country in Western Europe. The capital city of France is Paris. Continental France is slightly smaller than the state of Texas in the USA. France is generally a flat country with coastal plains and rolling hills in the north and west and high mountains in the south and south eastern parts. Tourist attractions include the Eiffel Tower, Notre Dame, the Louvre Museum, Versailles Palace, Mont Saint Michel, and Pont du Gard."
+  },
+  {
+    "country": "Italy",
+    "population": "63,000,000",
+    "happiness": "6.483",
+    "info": "Italy is a country in Southern Europe. The country is located on a peninsula in the Mediterranean Sea. The country is slightly larger in size than the three countries of the UK, the Netherlands and Belgium combined or about as big as the state of Arizona. Tourist attractions include Venice, Rome, the Leaning Tower of Pisa, Florence, and the Italian Alps."
+  },
+  {
+    "country": "Greece",
+    "population": "10,500,000",
+    "happiness": "5.723",
+    "info": "Greece is a country in southeastern Europe. Greece is a mountainous country. Mountains cover 80% of the country. The two major mountain ranges are the Pindus and the Taurus mountains. Greece has a mild and temperate climate with wet and colder winters and hot and dry summers. Greece is slightly smaller in size than the state of Alabama. Tourist attractions include Mount Olympus, Lake Trichonida, Santorini, Elafonissi Beach, and Mykonos."
+  },
+  {
+    "country": "Portugal",
+    "population": "10,000,000",
+    "happiness": "5.929",
+    "info": "Portugal lies in Southwestern Europe. Portugal is slightly smaller than the size of Virginia or about twice the size of Oregon. Portugal is about the same size as the United Kingdom in land area. The northern parts of Portugal are mountainous, whereas the landscape in southern Portugal is dominated by rolling hills. The mild Mediterranean climate offers ideal conditions for farming. Tourist attractions include Lisbon, Coimbra, Madeira, and Silves."
+  },
+  {
+    "country": "Ireland",
+    "population": "5,200,000",
+    "happiness": "7.085",
+    "info": "The Republic of Ireland is a country in Western Europe and located on the island of Ireland. The Republic of Ireland shares a border with Northern Ireland, that belongs to the UK. Ireland is slightly larger than the state of West Virginia and slightly bigger than the countries of Georgia or Sri Lanka. The landscape is dominated by rolling plains and rugged cliffs on the country’s western coast. The western part of the country has many mountains and poorer soil conditions. The climate is temperate but humid, with mild winters and cool summers. Tourist attractions include Trinity College, Dublin, Limerick, Cliffs of Moher, Glendalough, and Newgrange."
+  },
+  {
+    "country": "Switzerland",
+    "population": "8,600,000",
+    "happiness": "7.571",
+    "info": "Switzerland is located in Europe. Switzerland is a landlocked country in Central Europe. The country shares a land border with Germany, Austria, Liechtenstein, Italy and France. Switzerland is about half the size of Austria or slightly less than twice the size of New Jersey. Switzerland has the highest mountains in Europe. 48 of the mountains are over 4,000 metres/ 13,120 feet high. Tourist attractions include Geneva Water Fountain, Geneva, The International Hot Air Balloon Festival, and Basler Fasnacht."
+  },
+  {
+    "country": "Turkey",
+    "population": "82,000,000",
+    "happiness": "4.948",
+    "info": "Turkey is located between the European and Asian continents and thus called a transcontinental country. Only 3% of the land area lie in Europe, 97% of the country lie on the Asian continent. Turkey is slightly larger than the land area of Texas/ USA or than the land area of Chile. Turkey is about same the size as the UK and France combined. Turkey is the largest and most populous country of the Eastern Mediterranean countries. Tourist attractions include Hagia Sophia mosque, the Ankara Castle, Agora Open-Air Museum."
+  },
+  {
+    "country": "United Kingdom",
+    "population": "67,000,000",
+    "happiness": "7.064",
+    "info": "The United Kingdom is a country in northwestern Europe consisting of four countries: England, Scotland, Wales and Northern Ireland. The United Kingdom is slightly smaller than the state of Oregon/USA and slightly bigger than Ghana. The landscape is dominated by rolling plains and rugged hillsides. The UK has 13 British overseas territories, among them are Cayman Islands and British Virgin Islands in the Caribbean, Gibraltar on the Iberian Peninsula and Saint Helena in the South Atlantic Ocean. London Heathrow is the biggest airport on the European continent. Tourist attractions include the Shard skyscraper, Edinburgh, Windsor, Stonehenge, and Loch Ness."
+  },
+  {
+    "country": "Antarctica",
+    "population": "1000-5000",
+    "happiness": "N/A",
+    "info": "Antarctica is the highest, driest, coldest and windiest continent on Earth, Antarctica holds most of the world’s fresh water. Antarctica is home to several volcanoes and two of them are active. Antarctica is, on average, the windiest place on earth. The Dry Valleys in Antarctica are the driest places on earth.  There are 30 different countries that operate 80 research stations situated around the continent. Because of the earth's tilt, the sun does not rise in Antarctica from the vernal equinox to the autumnal equinox, which means the continent remains dark throughout the entire winter season."
+  },
+  {
+    "country": "Saudi Arabia",
+    "population": "34,810,000",
+    "happiness": "6.494",
+    "info": "Saudi Arabia is a country on the Arabian Peninsula in Western Asia.  Saudi Arabia is the birthplace of Islam and home to the religion’s holiest shrines, Mecca and Medina. Saudi Arabia is the largest country in the world without a river. 7. Saudi Arabia is mostly a desert. Ninety-five percent of the country is classified as a desert or semi-desert. The Rub Al-Khali, in the southern part of the country, is the largest sand desert in the world. Tourist attractions include the ruins of Al Ula, the Maldives, Al Ahsa oasis, and the holy mosque of Mecca."
+  },
+  {
+    "country": "Yemen",
+    "population": "29,830,000",
+    "happiness": "3.658",
+    "info": "Yemen is a country in Western Asia, on the southern end of the Arabian Peninsula. Yemen is slightly larger than twice the size of Wyoming. Its climate is mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east. The terrain is narrow coastal plain backed by flat-topped hills and rugged mountains; dissected upland desert plains in center slope into the desert interior of the Arabian Peninsula. "
+  },
+  {
+    "country": "Sudan",
+    "population": "43,850,000",
+    "happiness": "N/A",
+    "info": "Sudan, in northeast Africa, measures about one-fourth the size of the United States. The name “Sudan” translates to “the land of the blacks” in Arabic. The amount of rainfall increases towards the south. The central and the northern part have extremely dry desert areas such as the Nubian Desert to the northeast and the Bayuda Desert to the east; in the south, there are grasslands and tropical savanna. Sudan's rainy season lasts for about four months (June to September) in the north, and up to six months (May to October) in the south. Tourist attractions include the Pyramids of Meroe, the Red Sea, Dinder National Park, Jebel Marra, and the National Museum."
+  },
+  {
+    "country": "Botswana",
+    "population": "2,352,000",
+    "happiness": "3.467",
+    "info": "Botswana is a landlocked country in southern Africa. The capital of Botswana is Gaborone. South Africa borders Botswana to the south and east. Namibia borders Botswana to the west and Zimbabwe borders it to the east. Botswana is smaller than the state of Texas. The Kalahari Desert covers more than 70% of Botswana. It spans about 900,000 square kilometers (360,000 square miles). The Kalahari Desert touches 9 African countries. Most of Botswana is flat. Botswana is one of the least populated countries in the world. It has vast untouched lands. There are many thriving African animal species. Botswana is one of the ‘Four Corners of Africa.’ This is the only place in the world where four countries meet. Tourist attractions include the Okavango Delta, Moremi Game Reserve, Gabane, and Chobe National Park."
+  },
+  {
+    "country": "Mauritania",
+    "population": "4,650,000",
+    "happiness": "4.227",
+    "info": "Mauritania is a country in northwest Africa. Mauritania borders Algeria, Senegal and Mali. The climate is characterized by extremes in temperature and by meagre and irregular rainfall. Most of Mauritania is located in the tropics, and the weather is often very hot, although night time temperatures can dip below 7°C and as low as freezing point in the Sahara during the early morning. Travel to Mauritania is ill advised due to persistent crime and terrorism activity. Violent crimes, such as mugging, armed robbery, rape, and assault, are common. Tourist attractions include Banc d’Arguin, Terjit, and the Iron Ore Train."
+  },
+  {
+    "country": "Algeria",
+    "population": "43,850,000",
+    "happiness": "4.887",
+    "info": "Algeria is a country in the Maghreb region of North Africa. Algeria is the largest country in Africa and the 10th largest in the world. The Sahara desert makes up more than four-fifths of the country’s area. The Sahara is the largest hot desert in the world excluding the Arctic and Antarctica. In some areas, the country receives almost no rain (less than 25.4mm per year), while in others it sees up to 760mm per year – more than London. Likewise, temperatures can range from -6°C to over 40°C.  Algeria is home to seven UNESCO World Heritage Sites. The most famous of which is Timgad, a Roman city dating to around AD 100. Tourist attractions include the Atakor Plateau, Constantine, El Oued, and Algiers."
+  },
+  {
+    "country": "Democratic Republic of The Congo",
+    "population": "101,780,000",
+    "happiness": "N/A",
+    "info": "The Democratic Republic of the Congo is the second largest country in Africa. It borders Angola, Burundi, the Central African Republic, the Republic of Congo, Rwanda, South Sudan, Tanzania, Uganda, and Zambia. 72% of people live on less than $1.90 per day 43% of children are malnourished, 43% of households have access to drinking water, and 20% of households have access to sanitation. The DRC is the world’s largest producer of cobalt ore, and the world’s second largest producer of diamonds. The Congo River is the second longest river in Africa after Nile and the second largest river in the world by discharge volume of water (after the Amazon), and the world’s deepest river with measured depths in excess of 220 m (720 ft)."
+  },
+  {
+    "country": "Japan",
+    "population": "126,000,000",
+    "happiness": "5.940",
+    "info": "Japan is an island country on the Asian continent, an archipelago or chain of islands along the eastern coast of Asia, reaching from the northern coast of Russia to the South East China Sea. Japan is slightly smaller than the state of California in the USA or slightly bigger than Germany. The Japanese islands consist of 4 main islands and many of smaller isles. The largest of the four major islands is Honshu, which is also the seventh largest island in the world. The highest mountain in Japan is Mount Fuji, a dormant (sleeping) volcano, which last erupted in 1707. Mount Fuji is 3,776 metres/ 12,388 feet high. Japan lies on the Pacific 'Ring of Fire', a chain of volcanoes which are responsible for the most dramatic volcanic outbreakes and tsunamis in the recent years. In Japan, there are more than 108 active volcanos. Japan records the most earthquakes in the world every year. Tourist attractions include Tokyo, Hokkaido, Nagano, and Osaka."
+  }
+]

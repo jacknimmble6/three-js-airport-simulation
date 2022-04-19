@@ -1,0 +1,290 @@
+[
+    {
+      "lat": 26.8206,
+      "long": 30.8025,
+      "name": "Egypt",
+      "continent": "Africa"
+    },
+    {
+      "lat": 14.8206,
+      "long": 30.8025,
+      "name": "Sudan",
+      "continent": "Africa"
+    },
+    {
+      "lat": 7.8206,
+      "long": 39.8025,
+      "name": "Ethiopia",
+      "continent": "Africa"
+    },
+    {
+      "lat": 8.8206,
+      "long": 10.8025,
+      "name": "Nigeria",
+      "continent": "Africa"
+    },
+    {
+      "lat": -4.8206,
+      "long": 22.8025,
+      "name": "Democratic Republic of The Congo",
+      "continent": "Africa"
+    },
+    {
+      "lat": 26.8206,
+      "long": 15.8025,
+      "name": "Libya",
+      "continent": "Africa"
+    },
+    {
+      "lat": 26.8206,
+      "long": 2.8025,
+      "name": "Algeria",
+      "continent": "Africa"
+    },
+    {
+      "lat": 18.8206,
+      "long": -10.8025,
+      "name": "Mauritania",
+      "continent": "Africa"
+    },
+    {
+      "lat": -26.8206,
+      "long": 42.8025,
+      "name": "Madagascar",
+      "continent": "Africa"
+    },
+    {
+      "lat": -32.8206,
+      "long": 20.8025,
+      "name": "South Africa",
+      "continent": "Africa"
+    },
+    {
+      "lat": -18.8206,
+      "long": 22.8025,
+      "name": "Botswana",
+      "continent": "Africa"
+    },
+    {
+      "lat": 32.8206,
+      "long": 38.8025,
+      "name": "Saudi Arabia",
+      "continent": "Asia"
+    },
+    {
+      "lat": 23.8206,
+      "long": 43.8025,
+      "name": "Yemen",
+      "continent": "Asia"
+    },
+    {
+      "lat": 36.8206,
+      "long": 48.4025,
+      "name": "United Arab Emirates",
+      "continent": "Asia"
+    },
+    {
+      "lat": 32.6091,
+      "long": 144.3619,
+      "name": "Australia",
+      "continent": "Oceania"
+    },
+    {
+      "lat": 40.6091,
+      "long": 175.3619,
+      "name": "New Zealand",
+      "continent": "Oceania"
+    },
+    {
+      "lat": 0.7893,
+      "long": 113.9213,
+      "name": "Indonesia",
+      "continent": "Asia"
+    },
+    {
+      "lat": -94.8617,
+      "long": 125.1954,
+      "name": "China",
+      "continent": "Asia"
+    },
+    {
+      "lat": -104.8617,
+      "long": 145.1954,
+      "name": "Russia",
+      "continent": "Asia"
+    },
+    {
+      "lat": -120.8617,
+      "long": 114.1954,
+      "name": "India",
+      "continent": "Asia"
+    },
+    {
+      "lat": -55.8617,
+      "long": 110.1954,
+      "name": "Thailand",
+      "continent": "Asia"
+    },
+    {
+      "lat": 113.6345,
+      "long": 295.5528,
+      "name": "Mexico",
+      "continent": "North America"
+    },
+    {
+      "lat": -15.6345,
+      "long": 311.5528,
+      "name": "Brazil",
+      "continent": "South America"
+    },
+    {
+      "lat": -45.6345,
+      "long": 300.5528,
+      "name": "Chile",
+      "continent": "South America"
+    },
+    {
+      "lat": -28.6345,
+      "long": 300.5528,
+      "name": "Bolivia",
+      "continent": "South America"
+    },
+    {
+      "lat": -25.6345,
+      "long": 290.5528,
+      "name": "Peru",
+      "continent": "South America"
+    },
+    {
+      "lat": 15.6345,
+      "long": 285.5528,
+      "name": "Colombia",
+      "continent": "South America"
+    },
+    {
+      "lat": 20.6345,
+      "long": 295.5528,
+      "name": "Venezuela",
+      "continent": "South America"
+    },
+    {
+      "lat": -55.6345,
+      "long": 309.5528,
+      "name": "Argentina",
+      "continent": "South America"
+    },
+    {
+      "lat": 100.6345,
+      "long": 309.5528,
+      "name": "United States",
+      "continent": "North America"
+    },
+    {
+      "lat": 80.6345,
+      "long": 315.5528,
+      "name": "Canada",
+      "continent": "North America"
+    },
+    {
+      "lat": 73.6345,
+      "long": 345.5528,
+      "name": "Greenland",
+      "continent": "North America"
+    },
+    {
+      "lat": 92.8628,
+      "long": 175,
+      "name": "Antarctica",
+      "continent": "Antarctica"
+    },
+    {
+      "lat": 53.3555,
+      "long": -1.1743,
+      "name": "United Kingdom",
+      "continent": "Europe"
+    },
+    {
+      "lat": 56.0555,
+      "long": 5.3743,
+      "name": "Denmark",
+      "continent": "Europe"
+    },
+    {
+      "lat": 61.0555,
+      "long": 4.0743,
+      "name": "Norway",
+      "continent": "Europe"
+    },
+    {
+      "lat": 65.0555,
+      "long": 7.6743,
+      "name": "Sweden",
+      "continent": "Europe"
+    },
+    {
+      "lat": 64.0555,
+      "long": 11.6743,
+      "name": "Finland",
+      "continent": "Europe"
+    },
+    {
+      "lat": 53.5555,
+      "long": -4.5743,
+      "name": "Ireland",
+      "continent": "Europe"
+    },
+    {
+      "lat": 40,
+      "long": -2.5743,
+      "name": "Spain",
+      "continent": "Europe"
+    },
+    {
+      "lat": 46,
+      "long": 1.5743,
+      "name": "France",
+      "continent": "Europe"
+    },
+    {
+      "lat": 43,
+      "long": 10.2743,
+      "name": "Italy",
+      "continent": "Europe"
+    },
+    {
+      "lat": 47.5,
+      "long": 7.2743,
+      "name": "Switzerland",
+      "continent": "Europe"
+    },
+    {
+      "lat": 43,
+      "long": 16.2743,
+      "name": "Greece",
+      "continent": "Europe"
+    },
+    {
+      "lat": 43,
+      "long": 23.6743,
+      "name": "Turkey",
+      "continent": "Europe"
+    },
+    {
+      "lat": 43,
+      "long": -5.2743,
+      "name": "Portugal",
+      "continent": "Europe"
+    },
+    {
+      "lat": "65.9194",
+      "long": "-7.1451",
+      "name": "Iceland",
+      "continent": "Europe"
+    },
+    {
+      "lat": "-45.0048",
+      "long": "149.2529",
+      "name": "Japan",
+      "continent": "Asia"
+    }
+  ]
